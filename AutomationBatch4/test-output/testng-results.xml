@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-05T13:09:36 IST" name="Suite" finished-at="2023-11-05T13:09:59 IST" duration-ms="23037">
+    <groups>
+    </groups>
+    <test started-at="2023-11-05T13:09:36 IST" name="Test" finished-at="2023-11-05T13:09:59 IST" duration-ms="23037">
+      <class name="SauceDemoPageObject.TestCase.ProductTestCase">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:SauceDemoPageObject.TestCase.ProductTestCase@38425407]" started-at="2023-11-05T13:09:54 IST" name="Setup" finished-at="2023-11-05T13:09:56 IST" duration-ms="1160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ProductTestCase1()[pri:0, instance:SauceDemoPageObject.TestCase.ProductTestCase@38425407]" started-at="2023-11-05T13:09:56 IST" name="ProductTestCase1" finished-at="2023-11-05T13:09:59 IST" duration-ms="3315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductTestCase1 -->
+        <test-method is-config="true" signature="TeadDown()[pri:0, instance:SauceDemoPageObject.TestCase.ProductTestCase@38425407]" started-at="2023-11-05T13:09:59 IST" name="TeadDown" finished-at="2023-11-05T13:09:59 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeadDown -->
+      </class> <!-- SauceDemoPageObject.TestCase.ProductTestCase -->
+      <class name="SauceDemoPageObject.TestCase.LoginTestCase">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:SauceDemoPageObject.TestCase.LoginTestCase@4218d6a3]" started-at="2023-11-05T13:09:36 IST" name="Setup" finished-at="2023-11-05T13:09:40 IST" duration-ms="3655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="LoginTest1()[pri:0, instance:SauceDemoPageObject.TestCase.LoginTestCase@4218d6a3]" started-at="2023-11-05T13:09:40 IST" name="LoginTest1" finished-at="2023-11-05T13:09:43 IST" duration-ms="3279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest1 -->
+        <test-method is-config="true" signature="TeadDown()[pri:0, instance:SauceDemoPageObject.TestCase.LoginTestCase@4218d6a3]" started-at="2023-11-05T13:09:43 IST" name="TeadDown" finished-at="2023-11-05T13:09:43 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeadDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:SauceDemoPageObject.TestCase.LoginTestCase@4218d6a3]" started-at="2023-11-05T13:09:43 IST" name="Setup" finished-at="2023-11-05T13:09:44 IST" duration-ms="1447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="LoginTest2()[pri:0, instance:SauceDemoPageObject.TestCase.LoginTestCase@4218d6a3]" started-at="2023-11-05T13:09:44 IST" name="LoginTest2" finished-at="2023-11-05T13:09:49 IST" duration-ms="4244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest2 -->
+        <test-method is-config="true" signature="TeadDown()[pri:0, instance:SauceDemoPageObject.TestCase.LoginTestCase@4218d6a3]" started-at="2023-11-05T13:09:49 IST" name="TeadDown" finished-at="2023-11-05T13:09:49 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeadDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:SauceDemoPageObject.TestCase.LoginTestCase@4218d6a3]" started-at="2023-11-05T13:09:49 IST" name="Setup" finished-at="2023-11-05T13:09:50 IST" duration-ms="1150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="LoginTest3()[pri:0, instance:SauceDemoPageObject.TestCase.LoginTestCase@4218d6a3]" started-at="2023-11-05T13:09:50 IST" name="LoginTest3" finished-at="2023-11-05T13:09:54 IST" duration-ms="4260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest3 -->
+        <test-method is-config="true" signature="TeadDown()[pri:0, instance:SauceDemoPageObject.TestCase.LoginTestCase@4218d6a3]" started-at="2023-11-05T13:09:54 IST" name="TeadDown" finished-at="2023-11-05T13:09:54 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeadDown -->
+      </class> <!-- SauceDemoPageObject.TestCase.LoginTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
