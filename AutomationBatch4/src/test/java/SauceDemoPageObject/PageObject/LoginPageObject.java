@@ -12,6 +12,7 @@ public class LoginPageObject {
 		this.driver=Driver;
 	}
 	
+//	this is loginpage Object
 	By usernameInput = By.id("user-name");	
 	By passwordInput  = By.id("password");
 	By loginButton = By.xpath("//input[@id='login-button']");
